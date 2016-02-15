@@ -1,0 +1,117 @@
+test = "Hello world"
+
+[[exercises]]
+fitocracy_name = "Barbell Bench Press"
+fitocracy_id = 1
+mfp_name = "Bench Press, Barbell"
+mfp_id = 219
+
+[[exercises]]
+fitocracy_name = "Barbell Curl"
+fitocracy_id = 34
+mfp_name = "Standing Medium-Grip Barbell Curl"
+mfp_id = 293
+
+[[exercises]]
+fitocracy_name = "Barbell Deadlift"
+fitocracy_id = 3
+mfp_name = "Deadlift, Straight Leg"
+mfp_id = 231
+
+[[exercises]]
+fitocracy_name = "Barbell Incline Bench Press"
+fitocracy_id = 84
+mfp_name = "Incline Bench Press"
+mfp_id = 251
+
+[[exercises]]
+fitocracy_name = "Decline Barbell Bench Press"
+fitocracy_id = 88
+mfp_name = "Decline Bench Press"
+mfp_id = 232
+
+[[exercises]]
+fitocracy_name = "Barbell Shrug"
+fitocracy_id = 231
+mfp_name = "Shoulder Shrug"
+mfp_id = 285
+
+[[exercises]]
+fitocracy_name = "Barbell Squat"
+fitocracy_id = 2
+mfp_name = "Squat"
+mfp_id = 289
+
+[[exercises]]
+fitocracy_name = "Seated Barbell Military Press"
+fitocracy_id = 491
+mfp_name = "Barbell Military Press"
+mfp_id = 217
+
+[[exercises]]
+fitocracy_name = "Lat Pulldown"
+fitocracy_id = 286
+mfp_name = "Lat Pulldown"
+mfp_id = 257
+
+[[exercises]]
+fitocracy_name = "Barbell Shrug"
+fitocracy_id = 231
+mfp_name = "Shrug"
+mfp_id = 285
+
+[[exercises]]
+fitocracy_name = "Machine Back Extension"
+fitocracy_id = 935
+mfp_name = "Back Extension"
+mfp_id = 215
+
+[[exercises]]
+fitocracy_name = "Dumbbell Flyes"
+fitocracy_id = 93
+mfp_name = "Flat Dumbbell Fly"
+mfp_id = 239
+
+[[exercises]]
+fitocracy_name = "Dumbbell Bicep Curl"
+fitocracy_id = 42
+mfp_name = "Standing Biceps Curl, Dumbell"
+mfp_id = 291
+
+[[exercises]]
+fitocracy_name = "Crunch"
+fitocracy_id = 11
+mfp_name = "Abdominal Crunches"
+mfp_id = 211
+
+
+[[exercises]]
+fitocracy_name = "Basketball"
+fitocracy_id = 331
+mfp_name = "Basketball, nongame, general"
+mfp_id = 12
+mfp_type = "cardio"
+
+[[exercises]]
+fitocracy_name = "Bikram / Hot Yoga"
+fitocracy_id = 506
+mfp_name = "Yoga"
+mfp_id = 421029
+mfp_type = "cardio"
+
+
+[[exercises]]
+fitocracy_name = "Lying Triceps Press"
+fitocracy_id = 259
+
+[[exercises]]
+fitocracy_name = "Ab Wheel (kneeling)"
+fitocracy_id = 396
+
+[[exercises]]
+fitocracy_name = "T-Bar Row"
+fitocracy_id = 160
+
+[[exercises]]
+fitocracy_name = "Dumbbell Shrug"
+fitocracy_id = 235
